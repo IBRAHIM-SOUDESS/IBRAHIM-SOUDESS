@@ -11,6 +11,8 @@
   &nbsp;&middot;&nbsp;
   <a href="https://www.credly.com/users/moumbagna-nchare-ibrahim-soudess/badges"><strong>Verified Credentials (Credly)</strong></a>
   &nbsp;&middot;&nbsp;
+  <a href="https://www.facebook.com/ibrahim.soudess.ibrahim.soudess"><strong>Facebook</strong></a>
+  &nbsp;&middot;&nbsp;
   <a href="mailto:ibrahimsoudess7@gmail.com"><strong>Email</strong></a>
 </p>
 
