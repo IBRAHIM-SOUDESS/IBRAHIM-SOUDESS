@@ -1,0 +1,78 @@
+<svg width="1200" height="240" viewBox="0 0 1200 240" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Ibrahim Soudess — Security-First Software Engineer and Systems Architect">
+  <defs>
+    <linearGradient id="bgLight" x1="0" y1="0" x2="1200" y2="240" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#F6F8FA"/>
+    </linearGradient>
+    <linearGradient id="accentLineLight" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0969DA" stop-opacity="0.85"/>
+      <stop offset="50%" stop-color="#1A7F37" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#1A7F37" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="gridLight" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#D0D7DE" fill-opacity="0.85"/>
+    </pattern>
+    <linearGradient id="fadeMaskLight" x1="650" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="1"/>
+      <stop offset="35%" stop-color="#F6F8FA" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#F6F8FA" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Canvas -->
+  <rect x="0.5" y="0.5" width="1199" height="239" rx="12" fill="url(#bgLight)" stroke="#D0D7DE"/>
+
+  <!-- Subtle Right Technical Dot Grid -->
+  <rect x="660" y="1" width="539" height="238" rx="12" fill="url(#gridLight)"/>
+  <rect x="660" y="1" width="539" height="238" fill="url(#fadeMaskLight)"/>
+
+  <!-- Minimal Architectural Topology Diagram (Right Side) -->
+  <g opacity="0.88" stroke="#D0D7DE" stroke-width="1.2">
+    <line x1="870" y1="78" x2="965" y2="118"/>
+    <line x1="870" y1="162" x2="965" y2="118"/>
+    <line x1="965" y1="118" x2="1065" y2="78"/>
+    <line x1="965" y1="118" x2="1065" y2="162"/>
+    <line x1="1065" y1="78" x2="1130" y2="118"/>
+    <line x1="1065" y1="162" x2="1130" y2="118"/>
+
+    <!-- Nodes -->
+    <rect x="822" y="64" width="52" height="28" rx="6" fill="#FFFFFF" stroke="#D0D7DE"/>
+    <rect x="822" y="148" width="52" height="28" rx="6" fill="#FFFFFF" stroke="#D0D7DE"/>
+    <rect x="935" y="102" width="60" height="32" rx="6" fill="#FFFFFF" stroke="#0969DA"/>
+    <rect x="1040" y="64" width="52" height="28" rx="6" fill="#FFFFFF" stroke="#D0D7DE"/>
+    <rect x="1040" y="148" width="52" height="28" rx="6" fill="#FFFFFF" stroke="#D0D7DE"/>
+    <circle cx="1130" cy="118" r="7" fill="#FFFFFF" stroke="#1A7F37" stroke-width="2"/>
+    <circle cx="1130" cy="118" r="2.5" fill="#1A7F37"/>
+  </g>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="9.5" fill="#57606A" text-anchor="middle">
+    <text x="848" y="81">INGEST</text>
+    <text x="848" y="165">AUDIT</text>
+    <text x="965" y="121" fill="#1F2328" font-weight="600">CORE</text>
+    <text x="1066" y="81">RISK</text>
+    <text x="1066" y="165">AI/ML</text>
+  </g>
+
+  <!-- Top Left Eyebrow -->
+  <circle cx="62" cy="58" r="4" fill="#1A7F37"/>
+  <text x="76" y="62" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.5" font-weight="600" letter-spacing="1.8" fill="#57606A">
+    SECURITY ENGINEERING · SYSTEMS ARCHITECTURE · APPLIED AI
+  </text>
+
+  <!-- Primary Name -->
+  <text x="58" y="118" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="42" font-weight="700" letter-spacing="-0.8" fill="#1F2328">
+    Ibrahim Soudess
+  </text>
+
+  <!-- Positioning Statement -->
+  <text x="58" y="152" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.5" font-weight="400" fill="#57606A">
+    Engineering resilient software systems, evidence-based threat pipelines &amp; production platforms.
+  </text>
+
+  <!-- Subtle Accent Rule -->
+  <rect x="58" y="176" width="380" height="1.5" rx="1" fill="url(#accentLineLight)"/>
+
+  <!-- Footer Metadata -->
+  <text x="58" y="205" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.5" fill="#6E7781">
+    Yaoundé, Cameroon   ·   Security by Design   ·   Evidence over Assumption
+  </text>
+</svg>
